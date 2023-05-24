@@ -1,0 +1,3 @@
+C:/Users/GORKEM/CLionProjects/car_cop/binary_to_text/cmake-build-debug/CMakeFiles/binary_to_text.dir
+C:/Users/GORKEM/CLionProjects/car_cop/binary_to_text/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/GORKEM/CLionProjects/car_cop/binary_to_text/cmake-build-debug/CMakeFiles/rebuild_cache.dir
